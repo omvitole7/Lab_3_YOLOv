@@ -19,8 +19,7 @@ pip install numpy opencv-python torch torchvision matplotlib
 ## Usage
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/yolo-assignment.git
-   cd yolo-assignment
+   git clone (https://github.com/omvitole7/Lab_3_YOLOv)
    
 2. Open the Jupyter Notebook:
    bash
